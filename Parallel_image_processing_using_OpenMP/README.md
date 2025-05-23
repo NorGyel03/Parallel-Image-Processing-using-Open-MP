@@ -1,5 +1,4 @@
 # Multiprocessing for image preprocessing
-![title-banner](http://openmpcon.org/wp-content/uploads/2014/08/OpenMPLogoPanel-Small.jpg)
 
 ## Parallel image processing
 <hr/>
